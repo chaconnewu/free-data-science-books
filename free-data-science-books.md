@@ -18,6 +18,8 @@
 
 
 ###Big Data Analysis
+####Statistics
+* [Advanced Data Analysis from an Elementary Point of View] (http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Cosma Rohilla Shalizi - **Veternan**
 ####Data Mining
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms] (http://www2.dcc.ufmg.br/livros/miningalgorithms/files/pdf/dmafca.pdf) - Mohammed J. Zaki and Wagner Meira Jr. - **Intermediate**
 
