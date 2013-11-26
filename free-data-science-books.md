@@ -4,5 +4,5 @@
 * [Big Data Analaysis and Mining]
 * [Big Data Application]
 
-###Data-Science-Introduction
+###Data Science Introduction
 * [Introduction to Data Science](http://jsresearch.net/wiki/projects/teachdatascience/Teach_Data_Science.html) - Jeffery Stanton
