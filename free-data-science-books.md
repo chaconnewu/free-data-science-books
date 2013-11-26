@@ -16,6 +16,7 @@
 * [Real-Time Big Data Analytics: Emerging Architecture] (http://www.amazon.com/Real-Time-Big-Data-Analytics-Architecture-ebook/dp/B00DO33RSW) - Mike Barlow - `Beginner`
 * [Big Data Now: 2012 Edition] (http://www.amazon.com/Big-Data-Now-2012-Edition-ebook/dp/B0097E4EBQ) - O'Reilly Media Inc. - `Beginner`
 * [The Promise and Peril of Big Data] (http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf) - David Bollier - `Beginner`
+* [The Evolution of Data Products] (http://www.amazon.com/The-Evolution-Data-Products-ebook/dp/B005QEKQUY/ref=sr_1_63?s=digital-text&ie=UTF8&qid=1351898530&sr=1-63) - Mike Loukides - `Beginner`
 
 ###Big Data Processing
 * [Data-Intensive Text Processing with MapReduce] (http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) - Jimmy Lin and Chris Dyer - `Intermediate`
@@ -36,6 +37,7 @@
 
 ####Machine Learning
 * [A First Encounter with Machine Learning] (https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf) - Max Welling - `Beginner`
+* [Bayesian Reasoning and Machine Learning] (http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/031013.pdf) - David Barber - `Veteran`
 
 ###Big Data Application
 ####Data Visualization
