@@ -2,7 +2,7 @@
 * [Data Science Introduction](#data-science-introduction)
 * [Big Data Processing] (#big-data-processing)
 * [Big Data Analysis] (#big-data-analysis)
-	* [Network Analysisi] (#network-analysis)
+	* [Network Analysis] (#network-analysis)
 	* [Statistics] (#statistics)
 	* [Data Mining] (#data-mining)
 	* [Machine Learning] (#machine-learning)
