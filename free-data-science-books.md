@@ -4,10 +4,12 @@
 * [Big Data Analysis] (#big-data-analysis)
 	* [Network Analysisi] (#network-analysis)
 	* [Statistics] (#statistics)
-	* [Data Mining] *(#data-mining)
-	* [Machine Learning] *(#machine-learning)
+	* [Data Mining] (#data-mining)
+	* [Machine Learning] (#machine-learning)
 * [Big Data Application] (#big-data-application)
 	* [Data Visualization] (#data-visualization)
+	
+
 ###Data Science Introduction
 * [Introduction to Data Science](http://jsresearch.net/wiki/projects/teachdatascience/Teach_Data_Science.html) - Jeffery Stanton
 
