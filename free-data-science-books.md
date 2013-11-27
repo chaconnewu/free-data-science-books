@@ -28,6 +28,7 @@
 ###Data Analysis
 ####Network Analysis
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World] (http://www.cs.cornell.edu/home/kleinber/networks-book/) - David Easley and Jon Kleinberg - `Intermediate`
+* [Introduction to SocialNetwork Methods] (http://faculty.ucr.edu/~hanneman/nettext/) - Robert A. Hanneman and Mark Riddle - `Intermediate`
 
 ####Statistics
 * [Think Stats: Probability and Statistics for Programmers] (http://www.greenteapress.com/thinkstats/thinkstats.pdf) - Allen B. Downey - `Beginner`
