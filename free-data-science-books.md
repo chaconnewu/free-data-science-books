@@ -1,12 +1,12 @@
 ###Index
 * [Data Science Introduction](#data-science-introduction)
-* [Big Data Processing] (#big-data-processing)
-* [Big Data Analysis] (#big-data-analysis)
+* [Data Processing] (#big-data-processing)
+* [Data Analysis] (#big-data-analysis)
 	* [Network Analysis] (#network-analysis)
 	* [Statistics] (#statistics)
 	* [Data Mining] (#data-mining)
 	* [Machine Learning] (#machine-learning)
-* [Big Data Application] (#big-data-application)
+* [Data Science Application] (#big-data-application)
 	* [Data Visualization] (#data-visualization)
 * [Uncategorized] (#uncategorized)
 * [MOOCs about Data Science] (#moocs)	
@@ -21,11 +21,11 @@
 * [Data Science: An Introduction] (http://en.wikibooks.org/wiki/Data_Science:_An_Introduction) - Wikibook - `Beginner`
 
 
-###Big Data Processing
+###Data Processing
 * [Data-Intensive Text Processing with MapReduce] (http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) - Jimmy Lin and Chris Dyer - `Intermediate`
 
 
-###Big Data Analysis
+###Data Analysis
 ####Network Analysis
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World] (http://www.cs.cornell.edu/home/kleinber/networks-book/) - David Easley and Jon Kleinberg - `Intermediate`
 
@@ -43,7 +43,7 @@
 * [A First Encounter with Machine Learning] (https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf) - Max Welling - `Beginner`
 * [Bayesian Reasoning and Machine Learning] (http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/031013.pdf) - David Barber - `Veteran`
 
-###Big Data Application
+###Data Science Application
 ####Data Visualization
 * [Ineractive Data Visualization for the Web] (http://chimera.labs.oreilly.com/books/1230000000345/index.html) - Scott Murray - `Beginner`
 
@@ -51,6 +51,7 @@
 ###Uncategorized
 * [Data Journalism Handbook] (http://datajournalismhandbook.org/1.0/en/) - Jonathan Gray, Liliana Bounegru, and Lucy Chambers - `Beginner`
 * [Building Data Science Teams] (http://assets.en.oreilly.com/1/eventseries/23/Building-Data-Science-Teams.pdf) - DJ Patil - `Beginner`
+* [The Field Guide to Data Science] (http://www.boozallen.com/media/file/The-Field-Guide-to-Data-Science.pdf) - `Beginner`
 
 ###MOOCs about Data Science
 * [Introduction to Hadoop and MapReduce] (https://www.udacity.com/course/ud617) - Udacity - `Beginner`
