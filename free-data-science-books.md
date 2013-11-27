@@ -18,6 +18,8 @@
 * [Big Data Now: 2012 Edition] (http://www.amazon.com/Big-Data-Now-2012-Edition-ebook/dp/B0097E4EBQ) - O'Reilly Media Inc. - `Beginner`
 * [The Promise and Peril of Big Data] (http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf) - David Bollier - `Beginner`
 * [The Evolution of Data Products] (http://www.amazon.com/The-Evolution-Data-Products-ebook/dp/B005QEKQUY/ref=sr_1_63?s=digital-text&ie=UTF8&qid=1351898530&sr=1-63) - Mike Loukides - `Beginner`
+* [Data Science: An Introduction] (http://en.wikibooks.org/wiki/Data_Science:_An_Introduction) - Wikibook - `Beginner`
+
 
 ###Big Data Processing
 * [Data-Intensive Text Processing with MapReduce] (http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) - Jimmy Lin and Chris Dyer - `Intermediate`
@@ -48,6 +50,7 @@
 
 ###Uncategorized
 * [Data Journalism Handbook] (http://datajournalismhandbook.org/1.0/en/) - Jonathan Gray, Liliana Bounegru, and Lucy Chambers - `Beginner`
+* [Building Data Science Teams] (http://assets.en.oreilly.com/1/eventseries/23/Building-Data-Science-Teams.pdf) - DJ Patil - `Beginner`
 
 ###MOOCs about Data Science
 * [Introduction to Hadoop and MapReduce] (https://www.udacity.com/course/ud617) - Udacity - `Beginner`
@@ -56,5 +59,6 @@
 * [Social Network Analysis] (https://class.coursera.org/sna-003/class) - Lada Adamic (Coursera) - `Intermediate`
 * [Natural Language Processing] (https://class.coursera.org/nlp/lecture/preview) - Dan Jurafsky and Christopher Manning (Coursera) - `Intermediate`
 * [Social and Economic Networks: Models and Analysis] (https://class.coursera.org/networksonline-001/class) - Matthew O. Jackson (Coursera) - `Intermediate`
+* [Data Mining with Weka] (http://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/) - Ian H. Witten - `Intermediate`
 
  
