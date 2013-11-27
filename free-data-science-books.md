@@ -30,6 +30,7 @@
 ####Statistics
 * [Think Stats: Probability and Statistics for Programmers] (http://www.greenteapress.com/thinkstats/thinkstats.pdf) - Allen B. Downey - `Beginner`
 * [Advanced Data Analysis from an Elementary Point of View] (http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Cosma Rohilla Shalizi - `Veternan`
+* [Applied Data Science] (http://columbia-applied-data-science.github.io/appdatasci.pdf) - Ian Langmore and Daniel Krasner - `Intermediate`
 
 ####Data Mining
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms] (http://www2.dcc.ufmg.br/livros/miningalgorithms/files/pdf/dmafca.pdf) - Mohammed J. Zaki and Wagner Meira Jr. - `Intermediate`
@@ -53,4 +54,7 @@
 * [Introduction to Data Science] (https://class.coursera.org/datasci-001/class) - Bill Howe (Coursera) - `Beginner`
 * [Machine Learning] (https://class.coursera.org/ml-003/class) - Andrew Ng (Coursera) - `Beginner`
 * [Social Network Analysis] (https://class.coursera.org/sna-003/class) - Lada Adamic (Coursera) - `Intermediate`
+* [Natural Language Processing] (https://class.coursera.org/nlp/lecture/preview) - Dan Jurafsky and Christopher Manning (Coursera) - `Intermediate`
+* [Social and Economic Networks: Models and Analysis] (https://class.coursera.org/networksonline-001/class) - Matthew O. Jackson (Coursera) - `Intermediate`
+
  
