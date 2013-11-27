@@ -8,7 +8,8 @@
 	* [Machine Learning] (#machine-learning)
 * [Big Data Application] (#big-data-application)
 	* [Data Visualization] (#data-visualization)
-* [Uncategorized] (#uncategorized)	
+* [Uncategorized] (#uncategorized)
+* [MOOCs about Data Science] (#moocs)	
 
 ###Data Science Introduction
 * [Introduction to Data Science](http://jsresearch.net/wiki/projects/teachdatascience/Teach_Data_Science.html) - Jeffery Stanton - `Beginner`
@@ -46,3 +47,10 @@
 
 ###Uncategorized
 * [Data Journalism Handbook] (http://datajournalismhandbook.org/1.0/en/) - Jonathan Gray, Liliana Bounegru, and Lucy Chambers - `Beginner`
+
+###MOOCs about Data Science
+* [Introduction to Hadoop and MapReduce] (https://www.udacity.com/course/ud617) - Udacity - `Beginner`
+* [Introduction to Data Science] (https://class.coursera.org/datasci-001/class) - Bill Howe (Coursera) - `Beginner`
+* [Machine Learning] (https://class.coursera.org/ml-003/class) - Andrew Ng (Coursera) - `Beginner`
+* [Social Network Analysis] (https://class.coursera.org/sna-003/class) - Lada Adamic (Coursera) - `Intermediate`
+ 
