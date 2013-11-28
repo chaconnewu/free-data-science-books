@@ -36,7 +36,7 @@
 * [Advanced Data Analysis from an Elementary Point of View] (http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Cosma Rohilla Shalizi - `Veternan`
 * [Applied Data Science] (http://columbia-applied-data-science.github.io/appdatasci.pdf) - Ian Langmore and Daniel Krasner - `Intermediate`
 * [OpenIntro Statistics - Second Edition] (http://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, and Mine Cetinkaya-Rundel - `Beginner`
-
+* [Analyzing Linguistic Data: a practical introduction to statistics] (http://www.ualberta.ca/~baayen/publications/baayenCUPstats.pdf) - R. H. Baayan - `Beginner`
 
 ####Data Mining
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms] (http://www2.dcc.ufmg.br/livros/miningalgorithms/files/pdf/dmafca.pdf) - Mohammed J. Zaki and Wagner Meira Jr. - `Intermediate`
@@ -46,8 +46,13 @@
 ####Machine Learning
 * [A First Encounter with Machine Learning] (https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf) - Max Welling - `Beginner`
 * [Bayesian Reasoning and Machine Learning] (http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/031013.pdf) - David Barber - `Veteran`
+* [Introduction to Machine Learning] (http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan - `Intermediate`
+
 
 ###Data Science Application
+####Information Retrieval
+* [Introduction to Information Retrival] (http://nlp.stanford.edu/IR-book/) - Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schutze - `Intermediate`
+
 ####Data Visualization
 * [Ineractive Data Visualization for the Web] (http://chimera.labs.oreilly.com/books/1230000000345/index.html) - Scott Murray - `Beginner`
 
