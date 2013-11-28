@@ -29,11 +29,14 @@
 ####Network Analysis
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World] (http://www.cs.cornell.edu/home/kleinber/networks-book/) - David Easley and Jon Kleinberg - `Intermediate`
 * [Introduction to SocialNetwork Methods] (http://faculty.ucr.edu/~hanneman/nettext/) - Robert A. Hanneman and Mark Riddle - `Intermediate`
+* [The Wealth of Networks] (http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf) - Yochai Benkler - `Beginner`
 
 ####Statistics
 * [Think Stats: Probability and Statistics for Programmers] (http://www.greenteapress.com/thinkstats/thinkstats.pdf) - Allen B. Downey - `Beginner`
 * [Advanced Data Analysis from an Elementary Point of View] (http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Cosma Rohilla Shalizi - `Veternan`
 * [Applied Data Science] (http://columbia-applied-data-science.github.io/appdatasci.pdf) - Ian Langmore and Daniel Krasner - `Intermediate`
+* [OpenIntro Statistics - Second Edition] (http://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, and Mine Cetinkaya-Rundel - `Beginner`
+
 
 ####Data Mining
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms] (http://www2.dcc.ufmg.br/livros/miningalgorithms/files/pdf/dmafca.pdf) - Mohammed J. Zaki and Wagner Meira Jr. - `Intermediate`
