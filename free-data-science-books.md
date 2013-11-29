@@ -44,12 +44,15 @@
 * [Mining of Massive Datasets] (http://infolab.stanford.edu/~ullman/mmds/book.pdf) - Anand Rajaraman, Jure Leskovec, and Jeffrey D. Ullman - `Intermediate`
 * [The Elements of Statistical Learning] (http://statweb.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman - `Intermediate`
 * [R and Data Mining: Examples and Case Studies] (http://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf) - Yanchang Zhao - `Beginner`
+* [Data Mining for Social Network Data] (http://link.springer.com/book/10.1007%2F978-1-4419-6287-4) - Springer - `Veteran`
 
 ####Machine Learning
 * [A First Encounter with Machine Learning] (https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf) - Max Welling - `Beginner`
+* [A Course in Machine Learning] (http://ciml.info/) - Hal Daume - `Beginner`
 * [Bayesian Reasoning and Machine Learning] (http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/031013.pdf) - David Barber - `Veteran`
 * [Introduction to Machine Learning] (http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan - `Intermediate`
 * [The LION Way: Machine Learning plus Intelligent Optimization] (http://www.lionsolver.com/LIONbook/) - Robert Battiti and Mauro Brunato - `Intermediate`
+* [Probabilistic Programming & Bayesian Methods for Hackers] (http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (main author) - `Intermediate`
 
 ###Data Science Application
 ####Information Retrieval
