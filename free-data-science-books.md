@@ -76,5 +76,7 @@
 * [Natural Language Processing] (https://class.coursera.org/nlp/lecture/preview) - Dan Jurafsky and Christopher Manning (Coursera) - `Intermediate`
 * [Social and Economic Networks: Models and Analysis] (https://class.coursera.org/networksonline-001/class) - Matthew O. Jackson (Coursera) - `Intermediate`
 * [Data Mining with Weka] (http://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/) - Ian H. Witten - `Intermediate`
+* [Machine Learning Video Library] (http://work.caltech.edu/library/#!?goback=.gde_35222_member_5810981726511443971) - Yaser Abu-Mostafa - `Intermediate`
+* [Machine Learning Foundatiaons (taught in Chinese)] (https://class.coursera.org/ntumlone-001) - Hsuan-Tien Lin - `Beginner`
 
  
