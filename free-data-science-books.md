@@ -52,10 +52,11 @@
 * [A Course in Machine Learning] (http://ciml.info/) - Hal Daume - `Beginner`
 * [A First Encounter with Machine Learning] (https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf) - Max Welling - `Beginner`
 * [Bayesian Reasoning and Machine Learning] (http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/031013.pdf) - David Barber - `Veteran`
+* [Gaussian Processes for Machine Learning] (http://www.gaussianprocess.org/gpml/chapters/) - Carl Edward Rasmussen and Christopher K. I. Williams - `Veteran`
 * [Introduction to Machine Learning] (http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan - `Intermediate`
 * [Probabilistic Programming & Bayesian Methods for Hackers] (http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (main author) - `Intermediate`
 * [The LION Way: Machine Learning plus Intelligent Optimization] (http://www.lionsolver.com/LIONbook/) - Robert Battiti and Mauro Brunato - `Intermediate`
-
+* [Thinking Bayes] (http://www.greenteapress.com/thinkbayes/) - Allen B. Downey - `Beginner`
 
 ###Data Science Application
 ####Information Retrieval
