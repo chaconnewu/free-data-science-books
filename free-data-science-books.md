@@ -73,6 +73,7 @@
 * [Data Journalism Handbook] (http://datajournalismhandbook.org/1.0/en/) - Jonathan Gray, Liliana Bounegru, and Lucy Chambers - `Beginner`
 * [Building Data Science Teams] (http://assets.en.oreilly.com/1/eventseries/23/Building-Data-Science-Teams.pdf) - DJ Patil - `Beginner`
 * [Information Theory, Inference, and Learning Algorithms] (http://www.inference.phy.cam.ac.uk/itprnn/book.html) - David MacKay - `Intermediate`
+* [Mathematics for Computer Science] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf) - Eric Lehman, Thomas Leighton, and Albert R. Meyer - `Beginner`
 * [The Field Guide to Data Science] (http://www.boozallen.com/media/file/The-Field-Guide-to-Data-Science.pdf) - `Beginner`
 
 
