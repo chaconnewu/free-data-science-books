@@ -34,8 +34,11 @@
 
 ####Statistics
 * [Advanced Data Analysis from an Elementary Point of View] (http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Cosma Rohilla Shalizi - `Veternan`
-* [Applied Data Science] (http://columbia-applied-data-science.github.io/appdatasci.pdf) - Ian Langmore and Daniel Krasner - `Intermediate`
 * [Analyzing Linguistic Data: a practical introduction to statistics] (http://www.ualberta.ca/~baayen/publications/baayenCUPstats.pdf) - R. H. Baayan - `Beginner`
+* [Applied Data Science] (http://columbia-applied-data-science.github.io/appdatasci.pdf) - Ian Langmore and Daniel Krasner - `Intermediate`
+* [Concepts and Applications of Inferential Statistics] (http://vassarstats.net/textbook/) - Richard Lowry - `Beginner`
+* [Forcasting: Principles and Practice] (https://www.otexts.org/fpp/) - Rob J. Hyndman and George Athanasopoulos - `Intermediate`
+* [Introduction to Probability] (http://www.math.umass.edu/~lavine/Book/book.html) - Charles M. Grinstead and J. Laurie Snell - `Beginner`
 * [Introduction to Statistical Thought] (http://www.math.umass.edu/~lavine/Book/book.pdf) - Michael Lavine - `Beginner`
 * [OpenIntro Statistics - Second Edition] (http://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, and Mine Cetinkaya-Rundel - `Beginner`
 * [Think Stats: Probability and Statistics for Programmers] (http://www.greenteapress.com/thinkstats/thinkstats.pdf) - Allen B. Downey - `Beginner`
