@@ -28,14 +28,14 @@
 
 ###Data Analysis
 ####Network Analysis
-* [Introduction to SocialNetwork Methods] (http://faculty.ucr.edu/~hanneman/nettext/) - Robert A. Hanneman and Mark Riddle - `Intermediate`
+* [Introduction to Social Network Methods] (http://faculty.ucr.edu/~hanneman/nettext/) - Robert A. Hanneman and Mark Riddle - `Intermediate`
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World] (http://www.cs.cornell.edu/home/kleinber/networks-book/) - David Easley and Jon Kleinberg - `Intermediate`
 * [The Wealth of Networks] (http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf) - Yochai Benkler - `Beginner`
 
 ####Statistics
 * [Advanced Data Analysis from an Elementary Point of View] (http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Cosma Rohilla Shalizi - `Veternan`
-* [Analyzing Linguistic Data: a practical introduction to statistics] (http://www.ualberta.ca/~baayen/publications/baayenCUPstats.pdf) - R. H. Baayan - `Beginner`
 * [Applied Data Science] (http://columbia-applied-data-science.github.io/appdatasci.pdf) - Ian Langmore and Daniel Krasner - `Intermediate`
+* [Analyzing Linguistic Data: a practical introduction to statistics] (http://www.ualberta.ca/~baayen/publications/baayenCUPstats.pdf) - R. H. Baayan - `Beginner`
 * [Introduction to Statistical Thought] (http://www.math.umass.edu/~lavine/Book/book.pdf) - Michael Lavine - `Beginner`
 * [OpenIntro Statistics - Second Edition] (http://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, and Mine Cetinkaya-Rundel - `Beginner`
 * [Think Stats: Probability and Statistics for Programmers] (http://www.greenteapress.com/thinkstats/thinkstats.pdf) - Allen B. Downey - `Beginner`
@@ -49,8 +49,8 @@
 
 
 ####Machine Learning
-* [A First Encounter with Machine Learning] (https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf) - Max Welling - `Beginner`
 * [A Course in Machine Learning] (http://ciml.info/) - Hal Daume - `Beginner`
+* [A First Encounter with Machine Learning] (https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf) - Max Welling - `Beginner`
 * [Bayesian Reasoning and Machine Learning] (http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/031013.pdf) - David Barber - `Veteran`
 * [Introduction to Machine Learning] (http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan - `Intermediate`
 * [Probabilistic Programming & Bayesian Methods for Hackers] (http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (main author) - `Intermediate`
@@ -62,7 +62,7 @@
 * [Introduction to Information Retrival] (http://nlp.stanford.edu/IR-book/) - Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schutze - `Intermediate`
 
 ####Data Visualization
-* [Ineractive Data Visualization for the Web] (http://chimera.labs.oreilly.com/books/1230000000345/index.html) - Scott Murray - `Beginner`
+* [Interactive Data Visualization for the Web] (http://chimera.labs.oreilly.com/books/1230000000345/index.html) - Scott Murray - `Beginner`
 
 
 ###Uncategorized
@@ -74,8 +74,8 @@
 
 ###MOOCs about Data Science
 * [Data Mining with Weka] (http://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/) - Ian H. Witten - `Intermediate`
-* [Introduction to Hadoop and MapReduce] (https://www.udacity.com/course/ud617) - Udacity - `Beginner`
 * [Introduction to Data Science] (https://class.coursera.org/datasci-001/class) - Bill Howe (Coursera) - `Beginner`
+* [Introduction to Hadoop and MapReduce] (https://www.udacity.com/course/ud617) - Udacity - `Beginner`
 * [Machine Learning] (https://class.coursera.org/ml-003/class) - Andrew Ng (Coursera) - `Beginner`
 * [Machine Learning Foundatiaons (taught in Chinese)] (https://class.coursera.org/ntumlone-001) - Hsuan-Tien Lin - `Beginner`
 * [Machine Learning Video Library] (http://work.caltech.edu/library/#!?goback=.gde_35222_member_5810981726511443971) - Yaser Abu-Mostafa - `Intermediate`
