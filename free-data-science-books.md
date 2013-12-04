@@ -30,6 +30,9 @@
 ###Data Analysis
 ####Fundamentals
 * [Fundamental Numerical Methods and Data Analysis] (http://ads.harvard.edu/books/1990fnmd.book/) - George W. Collins - `Beginner`
+* [Introduction to Metadata] (http://www.getty.edu/research/publications/electronic_publications/intrometadata/index.html) - Murtha Baca - `Beginner`
+* [Introduction to R - Notes on R: A Programming Environment for Data Analysis and Graphics] (http://cran.r-project.org/doc/manuals/R-intro.pdf) - W. N. Venables, D. M. Smith, and the R Core Team - `Beginner`
+* [Modeling with Data: Tools and Techniques for Scientific Computing] (http://modelingwithdata.org/about_the_book.html) - Ben Klemens - `Beginner`
 
 ####Network Analysis
 * [Introduction to Social Network Methods] (http://faculty.ucr.edu/~hanneman/nettext/) - Robert A. Hanneman and Mark Riddle - `Intermediate`
@@ -42,7 +45,7 @@
 * [Analyzing Linguistic Data: a practical introduction to statistics] (http://www.ualberta.ca/~baayen/publications/baayenCUPstats.pdf) - R. H. Baayan - `Beginner`
 * [Applied Data Science] (http://columbia-applied-data-science.github.io/appdatasci.pdf) - Ian Langmore and Daniel Krasner - `Intermediate`
 * [Concepts and Applications of Inferential Statistics] (http://vassarstats.net/textbook/) - Richard Lowry - `Beginner`
-* [Forcasting: Principles and Practice] (https://www.otexts.org/fpp/) - Rob J. Hyndman and George Athanasopoulos - `Intermediate`
+* [Forecasting: Principles and Practice] (https://www.otexts.org/fpp/) - Rob J. Hyndman and George Athanasopoulos - `Intermediate`
 * [Introduction to Probability] (http://www.math.umass.edu/~lavine/Book/book.html) - Charles M. Grinstead and J. Laurie Snell - `Beginner`
 * [Introduction to Statistical Thought] (http://www.math.umass.edu/~lavine/Book/book.pdf) - Michael Lavine - `Beginner`
 * [OpenIntro Statistics - Second Edition] (http://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, and Mine Cetinkaya-Rundel - `Beginner`
@@ -50,8 +53,10 @@
 
 ####Data Mining
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms] (http://www2.dcc.ufmg.br/livros/miningalgorithms/files/pdf/dmafca.pdf) - Mohammed J. Zaki and Wagner Meira Jr. - `Intermediate`
+* [Data Mining and Knowledge Discovery in Real Life Applications] (http://www.intechopen.com/books/data_mining_and_knowledge_discovery_in_real_life_applications) - Julio Ponce and Adem Karahoca - `Beginner`
 * [Data Mining for Social Network Data] (http://link.springer.com/book/10.1007%2F978-1-4419-6287-4) - Springer - `Veteran`
 * [Mining of Massive Datasets] (http://infolab.stanford.edu/~ullman/mmds/book.pdf) - Anand Rajaraman, Jure Leskovec, and Jeffrey D. Ullman - `Intermediate`
+* [Knowledge-Oriented Applications in Data Mining] (http://www.intechopen.com/books/knowledge-oriented-applications-in-data-mininge) - Kimito Funatsu - `Intermediate`
 * [New Fundamental Technologies in Data Mining] (http://www.intechopen.com/books/new-fundamental-technologies-in-data-mining) - Kimito Funatsu - `Intermediate`
 * [R and Data Mining: Examples and Case Studies] (http://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf) - Yanchang Zhao - `Beginner`
 * [The Elements of Statistical Learning] (http://statweb.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman - `Intermediate`
