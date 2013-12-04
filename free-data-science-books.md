@@ -2,6 +2,7 @@
 * [Data Science Introduction](#data-science-introduction)
 * [Data Processing] (#big-data-processing)
 * [Data Analysis] (#big-data-analysis)
+	* [Fundamentals] (#fundamentals)
 	* [Network Analysis] (#network-analysis)
 	* [Statistics] (#statistics)
 	* [Data Mining] (#data-mining)
@@ -27,6 +28,9 @@
 
 
 ###Data Analysis
+####Fundamentals
+* [Fundamental Numerical Methods and Data Analysis] (http://ads.harvard.edu/books/1990fnmd.book/) - George W. Collins - `Beginner`
+
 ####Network Analysis
 * [Introduction to Social Network Methods] (http://faculty.ucr.edu/~hanneman/nettext/) - Robert A. Hanneman and Mark Riddle - `Intermediate`
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World] (http://www.cs.cornell.edu/home/kleinber/networks-book/) - David Easley and Jon Kleinberg - `Intermediate`
@@ -48,8 +52,10 @@
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms] (http://www2.dcc.ufmg.br/livros/miningalgorithms/files/pdf/dmafca.pdf) - Mohammed J. Zaki and Wagner Meira Jr. - `Intermediate`
 * [Data Mining for Social Network Data] (http://link.springer.com/book/10.1007%2F978-1-4419-6287-4) - Springer - `Veteran`
 * [Mining of Massive Datasets] (http://infolab.stanford.edu/~ullman/mmds/book.pdf) - Anand Rajaraman, Jure Leskovec, and Jeffrey D. Ullman - `Intermediate`
+* [New Fundamental Technologies in Data Mining] (http://www.intechopen.com/books/new-fundamental-technologies-in-data-mining) - Kimito Funatsu - `Intermediate`
 * [R and Data Mining: Examples and Case Studies] (http://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf) - Yanchang Zhao - `Beginner`
 * [The Elements of Statistical Learning] (http://statweb.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman - `Intermediate`
+* [Theory and Applications for Advanced Text Mining] (http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining) - Shigeaki Sakurai - `Intermediate`
 
 
 ####Machine Learning
