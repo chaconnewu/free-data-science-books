@@ -30,6 +30,7 @@
 ####Network Analysis
 * [Introduction to Social Network Methods] (http://faculty.ucr.edu/~hanneman/nettext/) - Robert A. Hanneman and Mark Riddle - `Intermediate`
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World] (http://www.cs.cornell.edu/home/kleinber/networks-book/) - David Easley and Jon Kleinberg - `Intermediate`
+* [Network Science] (http://barabasilab.neu.edu/networksciencebook/downlPDF.html) - Sarah Morrison - `Beginner`
 * [The Wealth of Networks] (http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf) - Yochai Benkler - `Beginner`
 
 ####Statistics
