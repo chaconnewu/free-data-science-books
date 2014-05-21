@@ -75,6 +75,7 @@
 * [Probabilistic Programming & Bayesian Methods for Hackers] (http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (main author) - `Intermediate`
 * [The LION Way: Machine Learning plus Intelligent Optimization] (http://www.lionsolver.com/LIONbook/) - Robert Battiti and Mauro Brunato - `Intermediate`
 * [Thinking Bayes] (http://www.greenteapress.com/thinkbayes/) - Allen B. Downey - `Beginner`
+* [Sklearn Basics] (http://nbviewer.ipython.org/github/jakevdp/sklearn_scipy2013/tree/master/notebooks/) - `Beginner`
 
 ###Data Science Application
 ####Information Retrieval
@@ -82,6 +83,7 @@
 
 ####Data Visualization
 * [Interactive Data Visualization for the Web] (http://chimera.labs.oreilly.com/books/1230000000345/index.html) - Scott Murray - `Beginner`
+* [Plotting and Visualization in Python] (http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850463/raw/a29d9ffb863bfab09ff6c1fc853e1d5bf69fe3e4/3.+Plotting+and+Visualization.ipynb) - `Beginner`
 
 
 ###Uncategorized
