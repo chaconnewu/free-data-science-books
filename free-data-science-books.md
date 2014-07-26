@@ -16,7 +16,7 @@
 * [Big Data Now: 2012 Edition] (http://www.amazon.com/Big-Data-Now-2012-Edition-ebook/dp/B0097E4EBQ) - O'Reilly Media Inc. - `Beginner`
 * [Data Science: An Introduction] (http://en.wikibooks.org/wiki/Data_Science:_An_Introduction) - Wikibook - `Beginner`
 * [Disruptive Possibilities: How Big Data Changes Everything] (http://www.amazon.com/Disruptive-Possibilities-Data-Changes-Everything-ebook/dp/B00CLH387W) - Jeffrey Needham - `Beginner`
-* [Introduction to Data Science](http://jsresearch.net/wiki/projects/teachdatascience/Teach_Data_Science.html) - Jeffery Stanton - `Beginner`
+* [Introduction to Data Science](http://jsresearch.net/) - Jeffery Stanton - `Beginner`
 * [Real-Time Big Data Analytics: Emerging Architecture] (http://www.amazon.com/Real-Time-Big-Data-Analytics-Architecture-ebook/dp/B00DO33RSW) - Mike Barlow - `Beginner`
 * [The Evolution of Data Products] (http://www.amazon.com/The-Evolution-Data-Products-ebook/dp/B005QEKQUY/ref=sr_1_63?s=digital-text&ie=UTF8&qid=1351898530&sr=1-63) - Mike Loukides - `Beginner`
 * [The Promise and Peril of Big Data] (http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf) - David Bollier - `Beginner`
