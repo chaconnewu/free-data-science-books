@@ -9,3 +9,6 @@ Each entry provides the expected audience for the certain book (beginner, interm
 - Fork
 - Edit, and add your recommendations (for beginner, intermediate, or veteran) 
 - Send a Pull Request
+
+
+[Free Data Science Books] (https://github.com/chaconnewu/free-data-science-books/blob/master/free-data-science-books.md)
