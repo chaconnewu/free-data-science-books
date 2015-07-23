@@ -26,7 +26,6 @@ Each entry provides the expected audience for the certain book (beginner, interm
 * [MOOCs about Data Science] (#moocs)	
 
 ###Data Science Introduction
-* [Big Data Now: 2012 Edition] (http://www.amazon.com/Big-Data-Now-2012-Edition-ebook/dp/B0097E4EBQ) - O'Reilly Media Inc. - `Beginner`
 * [Data Science: An Introduction] (http://en.wikibooks.org/wiki/Data_Science:_An_Introduction) - Wikibook - `Beginner`
 * [Disruptive Possibilities: How Big Data Changes Everything] (http://www.amazon.com/Disruptive-Possibilities-Data-Changes-Everything-ebook/dp/B00CLH387W) - Jeffrey Needham - `Beginner`
 * [Introduction to Data Science](http://jsresearch.net/) - Jeffery Stanton - `Beginner`
