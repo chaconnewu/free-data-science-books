@@ -59,7 +59,7 @@ Each entry provides the expected audience for the certain book (beginner, interm
 * [Applied Data Science] (http://columbia-applied-data-science.github.io/appdatasci.pdf) - Ian Langmore and Daniel Krasner - `Intermediate`
 * [Concepts and Applications of Inferential Statistics] (http://vassarstats.net/textbook/) - Richard Lowry - `Beginner`
 * [Forecasting: Principles and Practice] (https://www.otexts.org/fpp/) - Rob J. Hyndman and George Athanasopoulos - `Intermediate`
-* [Introduction to Probability] (http://www.math.umass.edu/~lavine/Book/book.html) - Charles M. Grinstead and J. Laurie Snell - `Beginner`
+* [Introduction to Probability] (http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/pdf.html) - Charles M. Grinstead and J. Laurie Snell - `Beginner`
 * [Introduction to Statistical Thought] (http://www.math.umass.edu/~lavine/Book/book.pdf) - Michael Lavine - `Beginner`
 * [OpenIntro Statistics - Second Edition] (http://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, and Mine Cetinkaya-Rundel - `Beginner`
 * [simpleR - Using R for Introductory Statistics] (http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf) - John Verzani - `Beginner`
