@@ -72,7 +72,7 @@ Each entry provides the expected audience for the certain book (beginner, interm
 * [Data Mining and Knowledge Discovery in Real Life Applications] (http://www.intechopen.com/books/data_mining_and_knowledge_discovery_in_real_life_applications) - Julio Ponce and Adem Karahoca - `Beginner`
 * [Data Mining for Social Network Data] (http://link.springer.com/book/10.1007%2F978-1-4419-6287-4) - Springer - `Veteran`
 * [Mining of Massive Datasets] (http://infolab.stanford.edu/~ullman/mmds/book.pdf) - Anand Rajaraman, Jure Leskovec, and Jeffrey D. Ullman - `Intermediate`
-* [Knowledge-Oriented Applications in Data Mining] (http://www.intechopen.com/books/knowledge-oriented-applications-in-data-mininge) - Kimito Funatsu - `Intermediate`
+* [Knowledge-Oriented Applications in Data Mining] (http://www.intechopen.com/books/knowledge-oriented-applications-in-data-mining) - Kimito Funatsu - `Intermediate`
 * [New Fundamental Technologies in Data Mining] (http://www.intechopen.com/books/new-fundamental-technologies-in-data-mining) - Kimito Funatsu - `Intermediate`
 * [R and Data Mining: Examples and Case Studies] (http://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf) - Yanchang Zhao - `Beginner`
 * [The Elements of Statistical Learning] (http://statweb.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman - `Intermediate`
