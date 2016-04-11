@@ -108,10 +108,12 @@ Each entry provides the expected audience for the certain book (beginner, interm
 
 ###MOOCs about Data Science
 * [Data Mining with Weka] (http://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/) - Ian H. Witten - `Intermediate`
+* [Mining Massive Datasets] (https://class.coursera.org/mmds-002) - Jeff Ullman, Jure Leskovec, Anand Rajaraman (Coursera) - `Beginner`
 * [Introduction to Data Science] (https://class.coursera.org/datasci-001/class) - Bill Howe (Coursera) - `Beginner`
 * [Introduction to Hadoop and MapReduce] (https://www.udacity.com/course/ud617) - Udacity - `Beginner`
 * [Machine Learning] (https://class.coursera.org/ml-003/class) - Andrew Ng (Coursera) - `Beginner`
 * [Machine Learning Foundatiaons (taught in Chinese)] (https://class.coursera.org/ntumlone-001) - Hsuan-Tien Lin - `Beginner`
+* [Machine Learning Techniques (taught in Chinese)] (https://class.coursera.org/ntumltwo-001) - Hsuan-Tien Lin - `Intermediate`
 * [Machine Learning Video Library] (http://work.caltech.edu/library/#!?goback=.gde_35222_member_5810981726511443971) - Yaser Abu-Mostafa - `Intermediate`
 * [Natural Language Processing] (https://class.coursera.org/nlp/lecture/preview) - Dan Jurafsky and Christopher Manning (Coursera) - `Intermediate`
 * [Social and Economic Networks: Models and Analysis] (https://class.coursera.org/networksonline-001/class) - Matthew O. Jackson (Coursera) - `Intermediate`
