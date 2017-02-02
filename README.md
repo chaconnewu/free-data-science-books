@@ -47,6 +47,7 @@ Each entry provides the expected audience for the certain book (beginner, interm
 * [Introduction to Metadata] (http://www.getty.edu/research/publications/electronic_publications/intrometadata/index.html) - Murtha Baca - `Beginner`
 * [Introduction to R - Notes on R: A Programming Environment for Data Analysis and Graphics] (http://cran.r-project.org/doc/manuals/R-intro.pdf) - W. N. Venables, D. M. Smith, and the R Core Team - `Beginner`
 * [Modeling with Data: Tools and Techniques for Scientific Computing] (http://modelingwithdata.org/about_the_book.html) - Ben Klemens - `Beginner`
+* [Data Analysis] (https://www.springboard.com/learning-paths/data-analysis) - Claudia Gold - `Beginner`
 
 ####Network Analysis
 * [Introduction to Social Network Methods] (http://faculty.ucr.edu/~hanneman/nettext/) - Robert A. Hanneman and Mark Riddle - `Intermediate`
@@ -67,6 +68,8 @@ Each entry provides the expected audience for the certain book (beginner, interm
 * [simpleR - Using R for Introductory Statistics] (http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf) - John Verzani - `Beginner`
 * [Statistics] (http://upload.wikimedia.org/wikipedia/commons/8/82/Statistics.pdf) - `Beginner`
 * [Think Stats: Probability and Statistics for Programmers] (http://www.greenteapress.com/thinkstats/thinkstats.pdf) - Allen B. Downey - `Beginner`
+* [Statistical Learning - Standford Online] (http://online.stanford.edu/course/statistical-learning-winter-2014) - Trevor Hastie & Rob Tibshirani - `Beginner`
+* [An Introduction to Statistical Learning with Applications in R] (http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani - `Beginner`
 
 ####Data Mining
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms] (http://www2.dcc.ufmg.br/livros/miningalgorithms/files/pdf/dmafca.pdf) - Mohammed J. Zaki and Wagner Meira Jr. - `Intermediate`
