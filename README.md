@@ -67,7 +67,7 @@ Each entry provides the expected audience for the certain book (beginner, interm
 * [Think Stats: Probability and Statistics for Programmers](http://www.greenteapress.com/thinkstats/thinkstats.pdf) - Allen B. Downey - `Beginner`
 
 #### Data Mining
-* [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www2.dcc.ufmg.br/livros/miningalgorithms/files/pdf/dmafca.pdf) - Mohammed J. Zaki and Wagner Meira Jr. - `Intermediate`
+* [Data Mining and Analysis: Fundamental Concepts and Algorithms](https://repo.palkeo.com/algo/information-retrieval/Data%20mining%20and%20analysis.pdf) - Mohammed J. Zaki and Wagner Meira Jr. - `Intermediate`
 * [Data Mining and Knowledge Discovery in Real Life Applications](http://www.intechopen.com/books/data_mining_and_knowledge_discovery_in_real_life_applications) - Julio Ponce and Adem Karahoca - `Beginner`
 * [Data Mining for Social Network Data](http://link.springer.com/book/10.1007%2F978-1-4419-6287-4) - Springer - `Veteran`
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf) - Anand Rajaraman, Jure Leskovec, and Jeffrey D. Ullman - `Intermediate`
