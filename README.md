@@ -88,6 +88,7 @@ Each entry provides the expected audience for the certain book (beginner, interm
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.lionsolver.com/LIONbook/) - Robert Battiti and Mauro Brunato - `Intermediate`
 * [Thinking Bayes](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey - `Beginner`
 * [Sklearn Basics](http://nbviewer.ipython.org/github/jakevdp/sklearn_scipy2013/tree/master/notebooks/) - `Beginner`
+* [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville - `Intermediate`
 
 ### Data Science Application
 #### Information Retrieval
