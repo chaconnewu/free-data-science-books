@@ -65,6 +65,7 @@ Each entry provides the expected audience for the certain book (beginner, interm
 * [simpleR - Using R for Introductory Statistics](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf) - John Verzani - `Beginner`
 * [Statistics](http://upload.wikimedia.org/wikipedia/commons/8/82/Statistics.pdf) - `Beginner`
 * [Think Stats: Probability and Statistics for Programmers](http://www.greenteapress.com/thinkstats/thinkstats.pdf) - Allen B. Downey - `Beginner`
+* [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/) - Bradley Efron and Trevor Hastie - `Intermediate`
 
 #### Data Mining
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](https://repo.palkeo.com/algo/information-retrieval/Data%20mining%20and%20analysis.pdf) - Mohammed J. Zaki and Wagner Meira Jr. - `Intermediate`
