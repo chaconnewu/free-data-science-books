@@ -45,6 +45,8 @@ Each entry provides the expected audience for the certain book (beginner, interm
 * [Introduction to Metadata](http://www.getty.edu/research/publications/electronic_publications/intrometadata/index.html) - Murtha Baca - `Beginner`
 * [Introduction to R - Notes on R: A Programming Environment for Data Analysis and Graphics](http://cran.r-project.org/doc/manuals/R-intro.pdf) - W. N. Venables, D. M. Smith, and the R Core Team - `Beginner`
 * [Modeling with Data: Tools and Techniques for Scientific Computing](http://modelingwithdata.org/about_the_book.html) - Ben Klemens - `Beginner`
+* [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](http://r4ds.had.co.nz/) - Hadley Wickham & Garrett Grolemund - `Beginner`
+- [Advanced R](http://adv-r.had.co.nz/) - Hadley Wickham - `Intermediate`
 
 #### Network Analysis
 * [Introduction to Social Network Methods](http://faculty.ucr.edu/~hanneman/nettext/) - Robert A. Hanneman and Mark Riddle - `Intermediate`
@@ -98,7 +100,7 @@ Each entry provides the expected audience for the certain book (beginner, interm
 #### Data Visualization
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html) - Scott Murray - `Beginner`
 * [Plotting and Visualization in Python](http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850463/raw/a29d9ffb863bfab09ff6c1fc853e1d5bf69fe3e4/3.+Plotting+and+Visualization.ipynb) - `Beginner`
-
+* [ggplot2: Elegant Graphics for Data Analysis](https://github.com/hadley/ggplot2-book) - Hadley Wickham - `Beginner`
 
 ### Uncategorized
 * [Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/) - Jonathan Gray, Liliana Bounegru, and Lucy Chambers - `Beginner`
