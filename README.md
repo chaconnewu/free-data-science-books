@@ -118,6 +118,7 @@ Each entry provides the expected audience for the certain book (beginner, interm
 * [Natural Language Processing](https://class.coursera.org/nlp/lecture/preview) - Dan Jurafsky and Christopher Manning (Coursera) - `Intermediate`
 * [Social and Economic Networks: Models and Analysis](https://class.coursera.org/networksonline-001/class) - Matthew O. Jackson (Coursera) - `Intermediate`
 * [Social Network Analysis](https://class.coursera.org/sna-003/class) - Lada Adamic (Coursera) - `Intermediate`
+* [Deep Learning](https://www.coursera.org/specializations/deep-learning) - Andrew Ng (Coursera) - `Intermediate`
 
 
 ## License
